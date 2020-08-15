@@ -1,0 +1,344 @@
+.container	{
+	margin: auto;
+}
+.orangetext{
+	color: #FF9900;
+}
+.redtext{
+	color: red;
+}
+.vid-sporta{
+	font-weight: bold;
+	color: #FF9900;
+}
+.spisokdoc{
+	margin-left: 40px;
+}
+.warning{
+	color: red;
+	border-bottom: 1px solid red;
+}
+.border-index{
+	width: 1100px;
+	margin-left: 8%;
+	padding-bottom: 10px;
+}
+.kkk{
+	text-align: left;
+	padding-left: 10%;
+}
+.main-images	{
+	text-align: center;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 120px;
+	flex: 0 0 33.333333%;
+	padding-top: 20px;
+}
+.main-images a	{
+text-decoration: none;
+} 
+.logo	{
+    text-align: center;
+	position:relative;
+}
+.images{
+	text-align: center;
+}
+.line	{ 
+    border-left: 2px solid #FF9900;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.line2	{ 
+    border-right: 2px solid #FF9900;
+    margin-right: 10px;
+    padding-right: 10px;
+	text-align: right;
+}
+.blok1{
+	margin-left: 10%;
+	width:80%;
+	vertical-align:top;
+	margin-bottom: 120px;
+}
+.margin{
+	margin-bottom: 30px;
+	font-size: 14pt;
+}
+.jjj{
+	max-width:700px;
+	vertical-align:middle;
+	display:inline-block;
+	font-size: 14pt;
+}
+.img1{
+	vertical-align:middle;
+	display:inline-block;
+	float: right;
+	padding-right: 20px;
+	width: 300px;
+	height: 250px;
+}
+.img2{
+	vertical-align:middle;
+	display:inline-block;
+	float: left;
+	padding-left: 20px;
+	width: 300px;
+	height: 250px;
+}
+.round	{
+	border-radius: 50px;
+	height: 300px;
+	width: 300px;
+	transition: 0.3s;
+}
+.round:hover{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	height: 325px;
+	width: 325px;
+	transition: 0.4s;
+}
+.border-bottom	{
+	border-top: 1px solid #3c3f40;
+}
+.row	{
+	display: flex;
+	flex-wrap: wrap; 
+}
+img.logotip{
+	width: 100px;
+	height: 100px;
+}
+.border-top	{
+	border-top:1px solid #D1D0CC;
+}
+.text-center	{
+	text-align:center;
+}
+.text-bottom	{
+color: #797b7b;
+font-size: 14px;
+max-width: 1200px;
+margin-right: auto;
+margin-left: auto;
+}
+p	{
+    text-indent: 20px;
+}
+body	{
+  line-height: 1.5;
+  font-family: Century Gothic;
+  margin: 0;
+  padding: 0;
+}
+h1	{
+color: #323536;
+font-size: 30px;
+font-weight: 600;
+letter-spacing: 1.5px;
+text-transform: uppercase;
+}
+.block1 > h1 {
+	font-size: 20px;
+	font-weight: 800;
+	text-transform: none;
+}
+h2	{
+color: #FF9900;
+font-size: 20px;
+font-weight: 600;
+margin: 10px 0 0;
+text-transform: uppercase;
+}
+h2:hover	{
+color: #323536;
+}
+div.qansw{
+	padding-left: 30px;
+	padding-top: 10px;
+	width: 70%;
+	display: inline-block;
+}
+div.qansw2{
+	display: block;
+	width: 96%;
+	border: 1px solid #FF9900;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+.qansw2:hover > p.quest{
+	color: #FF9900;
+	cursor: pointer
+}
+.osmenaxzagolovok{
+	font-weight: bold;
+	color: #FF9900;
+}
+.answ{
+    margin-left: 30px;
+	padding-right: 30px;
+}
+p.quest{
+	font-weight: bold;
+	font-size: 12pt;
+}
+div.forma{
+	float: right;
+	padding-right: 30px;
+	vertical-align: top;
+	width: 25%;
+	height:auto;
+	display: inline-block;
+}
+.mypole{
+	width: 70%;
+	height: 20px;
+	font-size: 12pt;
+}
+textarea{
+	resize: none;
+	width: 98%;
+	height: 150px;
+}
+input, textarea{
+	font-family: Century Gothic;
+	display: block;
+	margin-bottom: 7%;
+	border: 1px solid #FF9900;
+}
+fieldset{
+	border: 2px solid #FF9900;
+}
+legend{
+	color: #FF9900;
+}
+form{
+	font-weight: bold;
+}
+table	{
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+.putevkitable{
+	padding: 10px;
+	width: 70%;
+	margin: auto;
+	margin-bottom: 30px;
+}
+.cell{
+	padding: 10px;
+}
+.melki{
+	font-size: 12pt;
+	margin-left: 65px;
+}
+th	{
+	color: #FF9900;
+}
+tr, th, td, table	{
+	border: 1px solid #3c3f40;
+}
+.rasp > tr {
+	line-height: 10px;
+}
+.buytickets	{
+font-size: 20px;  
+text-decoration: none; 
+padding: 14px 30px; 
+color: #ffffff; 
+background: #0088cc; 
+border-radius: 10px; 
+}
+.buytickets:hover	{
+font-weight: bold;
+background: #0096e0;
+}
+.footer	{
+  padding: 1em 0;
+  background: #333333;
+  text-align: center;
+  height: 100%;
+}
+.header {
+position: relative; 
+text-transform: uppercase;
+}
+.header .navigation .menu > a	{
+color: #FF9900; 
+}
+.sticky {
+  background: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: 0.4s;
+}
+.menu a	{
+text-decoration: none;
+}
+.menu a:hover	{
+	color: #FF9900;
+}
+.menu > li	{
+display: inline-block;
+margin-right: 40px;
+}
+.menu > li > a	{
+font-weight: 1000;
+color: black;
+}
+.section > a	{
+position: relative;
+padding-right: 15px; 
+}
+/* Настройка выпадающего меню*/
+.section:hover > .downmenu {
+margin-top: 0px;
+visibility: visible; /*Видимость меню при наведении*/
+opacity: 1; 
+}
+.section .downmenu {
+visibility: hidden; /*Скрытие пунктов по умолчанию*/
+opacity: 0; /*Прозрачность по умолчанию*/
+position: absolute; /*Настройка положения*/
+top:100%;
+border-top: 2px solid #FF9900;
+border-bottom: 2px solid #FF9900;
+text-align: left;
+padding: 0px;
+margin-top: 10px;
+margin-left: 0px;
+background: #F1F1F1; /*Цвет фона*/
+transition: 0.3s; /*Задержка появления меню*/
+}
+.downmenu a	{
+color: #000;     
+}
+.downmenu > li	{
+list-style: none; 
+}
+.downmenu > li > a	{
+padding: 7px 10px;
+display: block; 
+}
+.downmenu > li > a:hover	{
+background: #FF9900;
+color: white; 
+}
+.footer > li	{
+list-style: none;
+display: inline-block;
+margin-right: 40px;
+text-transform: uppercase;
+}
+.footer a	{
+text-decoration: none;
+color: white;
+font-weight: bold;
+}
+.footer a:hover {
+color: #FF9900;
+}
